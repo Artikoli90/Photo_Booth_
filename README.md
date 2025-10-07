@@ -38,4 +38,4 @@ cd photo-booth
 npm install
 npm run dev
 
-🙋‍♀️ Made with ❤️ by Sneha Pandey
+🙋‍♀️ Made with ❤️ by Arti
