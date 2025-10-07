@@ -25,9 +25,6 @@ A photo booth app built using **React**,   packed with 💖, beautiful backgroun
 
 ---
 
-## 🎬 Demo GIF
-
-![PhotoBooth Demo](./demo.gif)
 
 
 ## 🚀 Installation & Run Locally
