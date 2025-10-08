@@ -2,8 +2,6 @@
 
 A photo booth app built using **React**,   packed with 💖, beautiful background, and minimal one-page design.
 
-🔗 **Live Demo**: [https://photo-booth-roan.vercel.app](https://photo-booth-roan.vercel.app)
-
 ---
 
 ## 🧡 Features
